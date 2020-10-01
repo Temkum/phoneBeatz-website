@@ -135,7 +135,8 @@ img {
 /* Section C */
 .section-c .gallery {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: .5rem;
 }
 
 .section-c .gallery a:first-child {
