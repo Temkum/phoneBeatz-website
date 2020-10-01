@@ -150,7 +150,7 @@ img {
 .section-c .gallery img,
 .section-c .gallery a {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
 }
 
 /* utilities */

@@ -1,4 +1,1 @@
-// initialize with jquery
-/* $(() => {
-  const $gallery = $(".gallery a").simpleLightbox();
-}); */
+const lightbox = new SimpleLightbox(".gallery a");
